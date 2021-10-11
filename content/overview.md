@@ -27,3 +27,28 @@ In this tutorial,we are going to cover following topics:
 - Schedule backup of MariaDB at regular intervals.
 - Enable Monitoring services on MariaDB Server using Prometheus and Grafana Operator.
 - Cleanup the Operator resources.
+
+
+### Execute Command
+
+You can execute the below command by clicking on it.
+
+```execue
+ls -l
+```
+
+### Copy Command
+
+You can copy the below command by clicking on it.
+
+```copy
+ls -l
+```
+
+### Clipboard Command
+
+You can copy to clipboard
+
+```clipboard
+ls -l
+```
