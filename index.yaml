@@ -21,15 +21,18 @@ commands:
       cwd: /home/student
       stepMessage: Installing Operator ....
 environment:
-    terminal: true
-    showide: true
-    apps:
-        - name: Placeholder Tab
+    terminal:
+        name: Terminal
+        enabled: false
+    ide:
+        name: Code IDE
+        enabled: true
+        url: '{{ CODE.url }}'
+    application:
+        - name: App Preview
           url: '{{ DNS.host }}/app'
 backend:
-    credits:
-        unitsPerHour: 2
-    service: vsi
+    service: MOCK-SERVICE
 tileInfo:
     - title: MariaDB Overview
       description: Understand features and architecture of MariaDB.
