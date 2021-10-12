@@ -31,7 +31,7 @@ environment:
     application:
         name: App Preview
         url: '{{ DNS.host }}'
-        enabled: false  
+        enabled: true  
 backend:
     service: k8s
 tileInfo:
