@@ -33,7 +33,7 @@ environment:
         url: '{{ DNS.host }}'
         enabled: false  
 backend:
-    service: MOCK-SERVICE
+    service: k8s
 tileInfo:
     - title: 1. MariaDB Operator installation verification
       description:
