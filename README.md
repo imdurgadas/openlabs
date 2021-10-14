@@ -34,4 +34,4 @@ In this tutorial,we are going to cover following topics:
 
 ### Video
 
-<iframe width="1067" height="454" src="https://dw1.s81c.com/caas-storage/5Khi7XGf/_videos/IBM%20Open%20Labs%20Introduction.mp4" title="IBM Open Labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="700" src="https://dw1.s81c.com/caas-storage/5Khi7XGf/_videos/IBM%20Open%20Labs%20Introduction.mp4" title="IBM Open Labs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
