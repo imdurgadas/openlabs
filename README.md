@@ -31,3 +31,7 @@ In this tutorial,we are going to cover following topics:
 - Schedule backup of MariaDB at regular intervals.
 - Enable Monitoring services on MariaDB Server using Prometheus and Grafana Operator.
 - Cleanup the Operator resources.
+
+### Video
+
+<iframe width="1067" height="454" src="https://dw1.s81c.com/caas-storage/5Khi7XGf/_videos/IBM%20Open%20Labs%20Introduction.mp4" title="IBM Open Labs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
