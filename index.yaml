@@ -31,7 +31,13 @@ environment:
     application:
         name: App Preview
         url: '{{ DNS.host }}'
-        enabled: true  
+        enabled: true
+config:
+    launchBtn:
+        buttonLabel: Launch Lab
+    execCmd : 
+        autoExecute: false
+        buttonLabel: Execute Commands
 backend:
     service: k8s
 tileInfo:
