@@ -42,7 +42,7 @@ To do so,
 
 
  ```execute
- mysql -h ##DNS.ip## -P 30685 -u db-user -pdb-user
+ mysql -h {{ SSH.host }} -P 30685 -u db-user -pdb-user
  ```
 
 
@@ -65,7 +65,7 @@ exit
 
 
 ```execute
-mysql -h ##DNS.ip## -P 30685 -u root -ppassword
+mysql -h {{ SSH.host }} -P 30685 -u root -ppassword
 ```
 
 **Step 7: Create database ‘testdb’**
